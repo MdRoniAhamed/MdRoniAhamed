@@ -29,18 +29,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/md-roni-ahamed/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
-<br />
-<br />
-
-<a href="https://codeforces.com/profile/md_roni_ahamed">
-   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
-
-<b>&#128200; Competitive Programming</b>
-<br />
-<p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
 <br/>
 <br/>
