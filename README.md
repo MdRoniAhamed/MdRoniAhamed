@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MdRoniAhamed/MdRoniAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,15 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Rahat Khan Pathan 👋
+### Hi there, I'm MD Roni Ahamed 👋
 
-## I'm a Learner, Problem Solver, Developer, and Teacher!!
-
-- 🥅 2019 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional (Done both)
+## I'm a Learner, Problem Solver, Developer!!
+<!--
+- 🥅 2022 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional (Done both)
 - 🥅 2020 Goals: To become codeforces pupil and solve 2000+ problems (Done both)
 - 🥅 2021 Goals: To become codeforces specialist, learn web development and get a job (Done all)
 - 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
 - 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
+-->
 ### Connect with me:
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
