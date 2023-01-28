@@ -49,7 +49,11 @@ Here are some ideas to get you started:
   <br/>
   <img align="center" alt="Roni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MdRoniAhamed&show_icons=true&theme=tokyonight" />
 <br />
-
+<br/>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=_saimun&theme=dark)](https://github.com/_saimun/leetcode-stats)
+<br/>
+![Badge](https://cp-logo.vercel.app/leetcode/_saimun)
+<br/>
 ---
   
   <img align="center"  alt="Roni's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRoniAhamed&show_icons=true" />
