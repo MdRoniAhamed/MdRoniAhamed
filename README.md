@@ -52,9 +52,6 @@ Here are some ideas to get you started:
 
 <b>&#128200; Competitive Programming</b>
 <br />
-![](https://raw.githubusercontent.com/AlSaimun/testing/main/output/light_card.svg)<br/>
-<img src="https://raw.githubusercontent.com/AlSaimun/testing/main/output/max_rating.svg" />
-<br/>
 <br/>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=who-i-am&theme=dark)](https://github.com/who-i-am/leetcode-stats)
 <br/>
