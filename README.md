@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/md-roni-ahamed/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 <a href="https://leetcode.com/who-i-am//">
-    <img align="left"  width="32px" src="https://drive.google.com/file/d/1NH44sDdF7s_tFyrOs-3KlquHffI1580_/view?usp=sharing" alt="LeetCode"/>
+    <img align="left"  width="32px" src="![image](https://user-images.githubusercontent.com/111082653/215282907-35a61fb5-a95c-463d-9aba-73ef4a6b6387.png)
+" alt="LeetCode"/>
 </a>
 </p>
 <br/>
