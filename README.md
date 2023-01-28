@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-- 🌱 I’m currently learning ... Phitron
+- 🌱 I’m currently learning ... Algorithms
 - 🤔 I’m looking for help with ... c++
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ...
