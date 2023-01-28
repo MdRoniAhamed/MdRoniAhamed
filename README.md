@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/AlSaimun/testing/main/output/max_rating.svg" />
 <br/>
 <br/>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=_saimun&theme=dark)](https://github.com/_saimun/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=who-i-am&theme=dark)](https://github.com/_saimun/leetcode-stats)
 <br/>
 ![Badge](https://cp-logo.vercel.app/leetcode/_saimun)
 <br/>
