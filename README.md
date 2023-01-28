@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... Algorithms<br/>
 - 🤔 I’m looking for help with ... c++ <br/>
-- 💬 Ask me about ... Anything<br/>
--  ![image](https://user-images.githubusercontent.com/111082653/215280047-fcfa1f8f-4652-4d12-ac7f-49458106cd31.png)I really love to meet with new people<br/>
-- ⚡ Fun fact: ...
+- 💬 Ask me about ... Anything <br/>
+- 😇 I really love to meet with new people<br/>
  <br/>
 ### Languages and Tools:
 
