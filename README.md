@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-- 🌱 I’m currently learning ... Algorithms<br/>
-- 🤔 I’m looking for help with ... C++ <br/>
+- 🌱 I’m currently learning ... HTML<br/>
 - 💬 Ask me about ... Anything <br/>
 - 😇 I really love to meet with new people<br/>
  <br/>
