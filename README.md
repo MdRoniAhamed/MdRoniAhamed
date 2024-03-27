@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-- 🌱 I’m currently learning ... JavaScripts<br/>
+- 🌱 I’m currently learning ... JavaScript <br/>
 - 💬 Ask me about ... Anything <br/>
 - 😇 I really love to meet with new people<br/>
  <br/>
